@@ -214,14 +214,14 @@ Ex 'Header Info' becomes header-info
 This is same as links just include ! before "[" .  
 Also you have to have your picture in same repo.
 ```
-  ![Panda](/red-panda.jpg)
+  ![Panda](/Images/red-panda.jpg)
 ```
-![Panda](/red-panda.jpg "Red Panda")
+![Panda](/Images/red-panda.jpg "Red Panda")
 
 Can also do referencing
 
 ```
-  [1]:(/red-panda.jpg)
+  [1]:(/Images/red-panda.jpg)
   ![Panda][1]
 ```
 ---
